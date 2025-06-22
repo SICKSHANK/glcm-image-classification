@@ -85,5 +85,7 @@ Achieved classification accuracy on a limited dataset (7 watermelon, 7 kiwi imag
 - Expand to multiclass fruit datasets
 - Implement deep learning models (CNNs) for comparison
 - Explore additional texture features for improved accuracy
-- [Uploading GLCM.ipynb…]()
+- ### 📂 Project Notebook:
+[👉 View the Jupyter Notebook here](./GLCM.ipynb)
+
 
